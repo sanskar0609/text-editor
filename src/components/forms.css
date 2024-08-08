@@ -1,0 +1,16 @@
+.parallel {
+    display: flex;
+    align-items: center;
+    gap: 50px; 
+    margin-left: 40%;
+  }
+  .txtsty{
+    margin: 10px 0;
+  }
+
+  .parallel1 {
+    display: flex;
+    align-items: center;
+    gap: 30px; 
+    margin-left: 20%;
+  }
