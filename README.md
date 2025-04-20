@@ -11,9 +11,8 @@ A simple and interactive **Text Convertor Web App** that allows users to input t
 - ✅ Select custom **text color**
 - ✅ Choose from different **text shadow** styles
 
-## 📸 Screenshot
 
-![App Screenshot](./6a12b972-19f0-42ca-8abf-7548be87f920.png)
+
 
 ## 🚀 Getting Started
 
