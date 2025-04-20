@@ -6,7 +6,7 @@ function Navbar() {
 
 <nav classNameName="navbar bg-body-tertiary">
   <div className="container-fluid">
-    <a className="navbar-brand" href="#">TEXT EDITOR</a>
+    <a className="navbar-brand" href="/Form">TEXT EDITOR</a>
   </div>
 </nav>
 
